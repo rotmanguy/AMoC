@@ -62,9 +62,12 @@ To remove a different set of layers simply modify the layers_to_prune and the ou
 # Citation
 ```
 @article{rotman2021model,
-  title={Model Compression for Domain Adaptation through Causal Effect Estimation},
+  title={Model compression for domain adaptation through causal effect estimation},
   author={Rotman, Guy and Feder, Amir and Reichart, Roi},
-  journal={arXiv preprint arXiv:2101.07086},
-  year={2021}
+  journal={Transactions of the Association for Computational Linguistics},
+  volume={9},
+  pages={1355--1373},
+  year={2021},
+  publisher={MIT Press}
 }
 ```
