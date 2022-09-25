@@ -1,4 +1,4 @@
-Official code for the paper ["Model Compression for Domain Adaptation through Causal Effect Estimation"](https://arxiv.org/abs/2101.07086).
+Official code for the paper ["Model Compression for Domain Adaptation through Causal Effect Estimation"](https://aclanthology.org/2021.tacl-1.80.pdf).
 Please cite our paper in case you are using this code.
 
 # Requirements
